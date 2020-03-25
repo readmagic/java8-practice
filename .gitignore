@@ -1,0 +1,12 @@
+logs
+play-community-log
+target
+embed
+/conf/reference.conf
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+conf/database.conf
