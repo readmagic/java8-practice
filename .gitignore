@@ -10,3 +10,5 @@ embed
 /.settings
 /RUNNING_PID
 conf/database.conf
+out
+.iml
